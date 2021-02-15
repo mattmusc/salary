@@ -13,3 +13,9 @@ With this structure, write a program to define the following company and compute
 - Mario is a manager of Vittorio and Teresa
 - Virna is a seller, she sells items for € 17,000.00
 - Maria is the CEO, manager of both Mario and Virna
+
+## How to run
+
+```shell
+mvn clean compile exec:java
+```
